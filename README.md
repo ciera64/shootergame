@@ -1,0 +1,1 @@
+Game ini adalah proyek arcade shooter 2D yang dibangun menggunakan Python dan library Pygame di VS Code, di mana pemain mengendalikan Yelan dari Genshin Impact untuk menembak burung-burung milik Timmy sebagai target utama. Proyek ini mengimplementasikan logika dasar pengembangan game seperti pergerakan sprite, sistem deteksi tabrakan, dan pengelolaan skor secara real-time.
